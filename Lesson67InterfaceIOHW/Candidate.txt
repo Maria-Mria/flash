@@ -1,0 +1,6 @@
+Candidate
+Niza,Andrey,18,MALE,23,Candidate
+Volokh,Vitaly,12,MALE,18,Candidate
+Voznichiy,Andrey,21,MALE,119,Candidate
+Voinich,Helen,21,FEMALE,19,Candidate
+ттттттттт,ррр,20,MALE,1212,Candidate
